@@ -1,0 +1,20 @@
+TaskInterval: 0.1
+Tasks:
+  - Name: "刷遗器"
+    Description: ""
+    Steps:
+      - Name: "Click btn"
+        Content: "传送"
+        Image: "/actions/images/背包图片.png"
+      - Name: "搜索声骸"
+        Content: "传送"
+        Image: "/actions/images/背包图片.png"
+  - Name: "刷模拟宇宙"
+    Description: ""
+    Steps:
+      - Name: "Click btn"
+        Content: "传送"
+        Image: "/actions/images/背包图片.png"
+      - Name: "搜索声骸"
+        Content: "传送"
+        Image: "/actions/images/背包图片.png"
